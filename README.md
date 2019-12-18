@@ -1,7 +1,5 @@
-# BiomedicalDataScience
+# Biomedical Data Science
 
-# Additional Header
+## Repository for Projects Completed at Johns Hopkins University for the Biomedical Data Science Course
 
-**Bolded Text**
-- bulleted
-- text
+### Completed in the Fall of 2019
